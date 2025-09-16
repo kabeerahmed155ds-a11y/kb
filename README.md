@@ -1,3 +1,3 @@
 # kb
-This is my first demo 
-owner name is kabeer ahmed 
+This is my first demo. 
+And My Kabeer Ahmed.
